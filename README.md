@@ -7,7 +7,7 @@ Khan Academy (Follows the GWC activity sets): https://www.khanacademy.org/comput
 
 Codecademy : https://www.codecademy.com/
 
-##Python: 
+##Python
 Web browser based:
 Codecademy : https://www.codecademy.com/
 
