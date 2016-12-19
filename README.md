@@ -12,7 +12,9 @@ Web browser based:
 Codecademy : https://www.codecademy.com/
 
 Online courses, similar to Coursera - lots available on Udacity, Coursera, Udemy. Will need to install Python and get code editor on computer (more info below). 
+
 •	Udacity: https://www.udacity.com/course/programming-foundations-with-python--ud036
+
 •	Learn Python the Hard Way: https://learnpythonthehardway.org/book/
 
 
